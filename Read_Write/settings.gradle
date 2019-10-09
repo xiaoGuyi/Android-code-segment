@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='Internal_Read_Write'
